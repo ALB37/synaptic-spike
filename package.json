@@ -1,0 +1,34 @@
+{
+  "name": "synaptic-spike",
+  "version": "1.0.0",
+  "description": "spike-project machine-learning xor demo",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest -i --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALB37/synaptic-spike.git"
+  },
+  "keywords": [
+    "synaptic",
+    "machine-learning",
+    "neural-net"
+  ],
+  "author": "Andrew Bloom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ALB37/synaptic-spike/issues"
+  },
+  "homepage": "https://github.com/ALB37/synaptic-spike#readme",
+  "dependencies": {
+    "synaptic": "^1.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "jest": "^22.1.4"
+  }
+}
